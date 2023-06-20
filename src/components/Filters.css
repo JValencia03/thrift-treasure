@@ -1,0 +1,14 @@
+.filters {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.filters > div {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
